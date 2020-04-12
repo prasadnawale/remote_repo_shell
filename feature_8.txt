@@ -1,1 +1,3 @@
 this file contains fixes for feature 8
+
+and also some additional lines
